@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+}
+
+li, p {
+    color: green;
+    list-style-type:armenian;
+    
+}
+
+.special {
+    color:brown;
+    font-weight: bold;
+}
+
+span {
+    color:darkcyan
+}
+
+li em {
+    font-weight: bold;
+}
+
+p em {
+    font-weight:bold;
+    color: bisque;
+}
+
+h1 + p {
+    color: blueviolet;
+}
+
+a:link {
+    color: pink;
+}
+
+a:hover {
+    color: blue
+}
+
+  
